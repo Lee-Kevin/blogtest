@@ -1,7 +1,7 @@
 title:            月夜之狼的博客
-description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
-disqus_shortname: hpstrtheme
-reading_time:     true
+description:      这是我的第一个博客
+disqus_shortname: mark1
+reading_time:     false
 words_per_minute: 200
 url:              https://lee-kevin.github.io/blog
 
@@ -12,7 +12,7 @@ owner:
   bio:            "为做一个有情怀的程序猿，奋斗终身"
   email:          lidreamer@163.com
   # Social networking links used in footer. Update and remove as you like.
-  weibo:          http://weibo.com/2032219167
+  weibo:          2032219167
   facebook:       profile.php?id=100009429047579
   github:         Lee-Kevin
   stackexchange:  

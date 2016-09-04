@@ -1,13 +1,13 @@
 ---
 layout: post-index
-title: 
+title: Latest Posts
 description: "Describe this nonsense."
 tags: [Jekyll, theme, themes, responsive, blog, modern]
-comments: true
+comments: false
 image:
   feature: abstract-1.jpg
-  credit: 月夜之狼的窝
-  creditlink: https://github.com/Lee-Kevin
+  credit: dargadgetz
+  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 {% for post in paginator.posts %}
