@@ -42,30 +42,7 @@
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
-<<<<<<< HEAD
-<!--     {% if page.comments != false %}{% include duoshuo_comments.html}{% endif %} -->
-
-<!-- 多说评论框 start -->
-	<div class="disqus_thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}" data-url="{{ site.url }}{{ page.url }}"></div>
-    
-<!-- 多说评论框 end -->
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-var duoshuoQuery = {short_name:"diyjob"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0] 
-		 || document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
-	</script>
-<!-- 多说公共JS代码 end -->
-
-=======
-    {% if page.comments != false %}{% include duoshuo_comments.html %}{% endif %}
->>>>>>> d643448a49eb880f1ee6afd02ab47af9a5a0a87d
+    {% if page.comments != false %}{% include duoshuo_comments.html}{% endif %}
   </article>
 </div><!-- /#main -->
 
