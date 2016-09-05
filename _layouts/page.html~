@@ -42,7 +42,12 @@
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
-    {% if page.comments != false %}{% include duoshuo_comments.html}{% endif %}
+<<<<<<< HEAD
+<!--     {% if page.comments != false %}{% include duoshuo_comments.html}{% endif %} -->
+
+=======
+    {% if page.comments != false %}{% include duoshuo_comments.html %}{% endif %}
+>>>>>>> d643448a49eb880f1ee6afd02ab47af9a5a0a87d
   </article>
 </div><!-- /#main -->
 
