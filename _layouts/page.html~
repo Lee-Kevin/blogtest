@@ -40,14 +40,12 @@
         {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
         <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
         {% if page.share != false %}{% include social-share.html %}{% endif %}
+	{% if page.comments != false %}{% include duoshuo_comments.html %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
-<<<<<<< HEAD
-<!--     {% if page.comments != false %}{% include duoshuo_comments.html}{% endif %} -->
 
-=======
-    {% if page.comments != false %}{% include duoshuo_comments.html %}{% endif %}
->>>>>>> d643448a49eb880f1ee6afd02ab47af9a5a0a87d
+    
+
   </article>
 </div><!-- /#main -->
 

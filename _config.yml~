@@ -2,8 +2,8 @@ title:            月夜之狼的博客
 description:      这是我的第一个博客
 reading_time:     false
 words_per_minute: 200
-#url:              http://diyjob.cc/blog
-url:              http://localhost:4000
+url:              http://diyjob.cc/blog
+#url:              http://localhost:4000
 # Owner/author information
 owner:
   name:           李建凯/Kevin Lee
