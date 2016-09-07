@@ -2,7 +2,7 @@
 layout: post
 title: Post with a Background Image
 description: "Sample post with a background image CSS override."
-tags: [sample post]
+tags: [博客示例]
 image:
   background: triangular.png
 ---
