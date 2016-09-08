@@ -1,11 +1,14 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: 标签分类
+  url: /tags/
+
+- title: 技术笔记
+  url: /technology/
+
+- title: 读书有感
+  url: /reading/
 
 - title: 谈谈人生
-  url: /theme-setup/
+  url: /life/
 
-
-- title: External Link
-  url: http://mademistakes.com

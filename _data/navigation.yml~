@@ -1,0 +1,19 @@
+# Menu navigation links
+
+- title: 所有文章
+  url: /tags/
+
+- title: 标签分类
+  url: /tags/
+
+- title: 读书笔记
+  url: /reading/
+
+- title: 生活杂谈
+  url: /life/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: External Link
+  url: http://mademistakes.com
